@@ -2,11 +2,11 @@
 
 An end-to-end Machine Learning web solution that predicts patient appointment no-shows and decodes individual predictions using **SHAP values**. 
 
- **Live Demo:** [https://ml-portfolio-noshow.streamlit.app](https://ml-portfolio-noshow.streamlit.app) *(Note: Link will be updated upon deployment)*
+**Live Demo:** [https://ml-portfolio-noshow.streamlit.app](https://ml-portfolio-noshow.streamlit.app) *(Note: Link will be updated upon deployment)*
 
 ---
 
-## Model Performance & Evaluation
+##  Model Performance & Evaluation
 
 Evaluated on a held-out test set (20% of historical dataset):
 
@@ -54,14 +54,20 @@ A standard feature importance plot only showed *that* waiting days and SMS remin
 ##  How to Run Locally
 
 1. Clone the repository:
-   git clone https://github.com/iwannarigds-png/ml-portfolio.git
-   cd ml-portfolio
+\`\`\`bash
+git clone https://github.com/iwannarigds-png/ml-portfolio.git
+cd ml-portfolio
+\`\`\`
 
 2. Install required dependencies:
-   pip install -r requirements.txt
+\`\`\`bash
+pip install -r requirements.txt
+\`\`\`
 
 3. Launch the Streamlit dashboard:
-   streamlit run dashboard_eng.py
+\`\`\`bash
+streamlit run dashboard_eng.py
+\`\`\`
 
 ---
 
