@@ -75,7 +75,7 @@ streamlit run dashboard_eng.py
 
 * **Author:** Iwanna Rig
 * **GitHub:** [@iwannarigds-png](https://github.com/iwannarigds-png)
-* **Medium:** *(Article link coming soon)*
+* **Medium:** *(https://medium.com/@iwannarig.ds/beyond-accuracy-uncovering-the-sms-paradox-in-healthcare-no-shows-with-explainable-ai-340d87ad8b66)*
 
 ---
 
