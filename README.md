@@ -2,7 +2,7 @@
 
 An end-to-end Machine Learning web solution that predicts patient appointment no-shows and decodes individual predictions using **SHAP values**. 
 
-**Live Demo:** [https://ml-portfolio-noshow.streamlit.app](https://ml-portfolio-noshow.streamlit.app) *(Note: Link will be updated upon deployment)*
+**Live Demo:** [https://ml-portfolio-4n7fdljepmyha556zwntpx.streamlit.app/](https://ml-portfolio-4n7fdljepmyha556zwntpx.streamlit.app/)
 
 ---
 
@@ -71,7 +71,7 @@ streamlit run dashboard_eng.py
 
 ---
 
-##  Author & Connect
+## Author & Connect
 
 * **Author:** Iwanna Rig
 * **GitHub:** [@iwannarigds-png](https://github.com/iwannarigds-png)
@@ -79,6 +79,6 @@ streamlit run dashboard_eng.py
 
 ---
 
-## License
+##  License
 
 Distributed under the MIT License.
